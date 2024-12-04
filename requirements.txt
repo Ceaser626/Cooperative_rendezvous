@@ -1,0 +1,5 @@
+numpy==1.24.2
+Pyomo==6.5.0
+scipy==1.10.1
+sympy==1.12
+IPOPT==3.14.4
