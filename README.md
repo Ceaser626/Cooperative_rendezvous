@@ -9,8 +9,8 @@ The distributed control framework, based on rendezvous parameter optimization, g
 <div align="center">
   <table style="border: none;">
     <tr>
-      <td><img src="https://github.com/Ceaser626/Cooperative_rendezvous/blob/main/Fig/Fig2_1a.pdf" alt="Figure_4a" width="90%" style="display: inline-block;"/></td>
-      <td><img src="https://github.com/Ceaser626/Cooperative_rendezvous/blob/main/Fig/Fig2_R2.pdf" alt="Figure_4b" width="100%" style="display: inline-block;"/></td>
+      <td><img src="https://github.com/Ceaser626/Cooperative_rendezvous/blob/main/Fig/Fig2_1a.png?raw=true" alt="Figure_4a" width="90%" style="display: inline-block;"/></td>
+      <td><img src="https://github.com/Ceaser626/Cooperative_rendezvous/blob/main/Fig/Fig2_R2.png?raw=true" alt="Figure_4b" width="100%" style="display: inline-block;"/></td>
     </tr>
   </table>
 </div>
